@@ -1,1 +1,1 @@
-# clash-sell-bot
+# Sell Bot for Clash Marketplace
